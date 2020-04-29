@@ -332,7 +332,7 @@ Check solve section for steganography.
 ## Wargames
 
 *Always online CTFs*
-
+- [tryhackme](https://tryhackme.com/) - An awsome website for beginers and experts to test and learn new skils
 - [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
 - [Crackmes](https://crackmes.one/) - Reverse Engineering Challenges.
 - [Exploit Exercises](https://exploit-exercises.lains.space/) - Variety of VMs to learn variety of computer security issues.
